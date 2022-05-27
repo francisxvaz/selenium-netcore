@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32314.265
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aunity", "aunity.csproj", "{111D9D9A-5489-4C84-A1D0-075C7D26335D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111D9D9A-5489-4C84-A1D0-075C7D26335D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111D9D9A-5489-4C84-A1D0-075C7D26335D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111D9D9A-5489-4C84-A1D0-075C7D26335D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111D9D9A-5489-4C84-A1D0-075C7D26335D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2507108-67BE-434E-951B-9B5F3E566C49}
+	EndGlobalSection
+EndGlobal
